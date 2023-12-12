@@ -2,9 +2,11 @@
 *.log
 *.pot
 *.pyc
-__pycache__/
 local_settings.py
 .env
 env
+# Python
+venv
+__pycache__/
 # Visual Studio Code
 .vscode/
